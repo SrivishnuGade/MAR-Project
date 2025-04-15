@@ -64,23 +64,22 @@ Place your audio files inside the `audio/` folder. Play them via a connected spe
 ### 3. Run the Tempo Analyzer
 
 Install dependencies:
-
-```bash
+bash
 pip install librosa pyserial
 
-Watch the Puppet Dance!
+### 4. Watch the Puppet Dance!
 Sit back and enjoy as the puppet dances in sync with the music's tempo 🎶
 
-📽️ Demo
+### 📽️ Demo
 [📹 Insert link to a demo video here if available]
-📚 Future Enhancements
+### 📚 Future Enhancements
 
 🎵 Real-time audio beat detection
 🎭 Multiple puppets with synchronized shows
 🎙️ Voice-controlled puppet interaction
 🧍‍♀️ Unity-based virtual puppet mirror
 
-🙌 Authors
+### 🙌 Authors
 
 Simonna Anna Dcosta
 Srivishnu Muni Gade
