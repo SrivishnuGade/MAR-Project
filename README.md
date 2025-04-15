@@ -67,30 +67,23 @@ Install dependencies:
 
 ```bash
 pip install librosa pyserial
-### 4. Watch the Puppet Dance!
 
+Watch the Puppet Dance!
 Sit back and enjoy as the puppet dances in sync with the music's tempo 🎶
 
----
-
-## 📽️ Demo
-
+📽️ Demo
 [📹 Insert link to a demo video here if available]
+📚 Future Enhancements
 
----
+🎵 Real-time audio beat detection
+🎭 Multiple puppets with synchronized shows
+🎙️ Voice-controlled puppet interaction
+🧍‍♀️ Unity-based virtual puppet mirror
 
-## 📚 Future Enhancements
+🙌 Authors
 
-- 🎵 Real-time audio beat detection  
-- 🎭 Multiple puppets with synchronized shows  
-- 🎙️ Voice-controlled puppet interaction  
-- 🧍‍♀️ Unity-based virtual puppet mirror  
+Simonna Anna Dcosta
+Srivishnu Muni Gade
+Sushma EJ
+Tejasree C J
 
----
-
-## 🙌 Authors
-
-- Simonna Anna Dcosta  
-- Srivishnu Muni Gade 
-- Sushma EJ 
-- Tejasree C J
