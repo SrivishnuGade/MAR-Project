@@ -82,7 +82,10 @@ Sit back and enjoy as the puppet dances in sync with the music's tempo 🎶
 ### 🙌 Authors
 
 Simonna Anna Dcosta
+
 Srivishnu Muni Gade
+
 Sushma EJ
+
 Tejasree C J
 
